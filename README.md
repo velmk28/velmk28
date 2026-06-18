@@ -1,5 +1,5 @@
  # Hey there!
-👋  I'm VELMARI KUMAR M
+👋  I'm Velmari kumar M
 
 
 ## 🌐 Socials:

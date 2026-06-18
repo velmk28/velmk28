@@ -11,7 +11,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=velmk28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=velmk28&theme=tokyonight&hide_border=false)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=velmk28&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=velmk28&theme=tokyonight&hide_border=false)
 
